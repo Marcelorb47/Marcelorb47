@@ -12,7 +12,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelorb47&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <img align="center" alt="Marcelo-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Marcelo-Mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Marcelo-Mysql" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   
 </div>
 
