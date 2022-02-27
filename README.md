@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou a procura de estágio na área de programação
-- 📝 Estou estudadando Análises e Desenvolmento de Sistemas
+- 📝 Estou cursando Análises e Desenvolmento de Sistemas
 - 📖 Tenho conhecimento em Lógica de Programação, Python e SQL
 - 🎓 Sou formado em Ciências Biológias
 
