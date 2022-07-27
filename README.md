@@ -1,7 +1,7 @@
 ### Olá eu sou Marcelo Rodrigues
 
 
-- 🔭 Atualmente estou a procura de estágio na área de programação
+- 🔭 Atualmente estou a procura de estágio na área de Data Science
 - 📝 Estou cursando Análises e Desenvolmento de Sistemas
 - 📖 Tenho conhecimento em Lógica de Programação, Python e SQL
 - 🎓 Sou formado em Ciências Biológias
